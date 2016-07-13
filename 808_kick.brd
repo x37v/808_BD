@@ -719,7 +719,7 @@ Please make sure your boards conform to these design rules.</description>
 <attribute name="VALUE" x="17.22105625" y="33.78495625" size="0.8128" layer="25" ratio="15" rot="R180"/>
 </element>
 <element name="R8" library="resistor" package="0411V" value="220" x="46.614" y="24.6962" smashed="yes" rot="R90">
-<attribute name="VALUE" x="44.843853125" y="26.0572375" size="0.8128" layer="25" ratio="15" rot="R270"/>
+<attribute name="VALUE" x="44.53844375" y="25.707734375" size="0.8128" layer="25" ratio="15" rot="R270"/>
 </element>
 <element name="R9" library="resistor" package="0411V" value="22k" x="27.8518" y="33.5667" smashed="yes" rot="R90">
 <attribute name="VALUE" x="27.086065625" y="34.043734375" size="0.8128" layer="25" ratio="15" rot="R180"/>
